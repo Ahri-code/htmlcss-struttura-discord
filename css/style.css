@@ -87,3 +87,12 @@ nav {
 }
 
 /* The Big One */
+
+#big-one {
+    height: 700px;
+    width: 70%;
+    background-color: #228b22;
+    margin-top: 2.5rem;
+    margin-bottom: 2.5rem;
+    border: 3px dashed black;
+}
