@@ -53,10 +53,37 @@ nav {
     height: 300px;
     width: 50%;
     background-color: #ee82ee;
-    margin-top: calc(100% / 35);
-    margin-bottom: calc(100% / 35);
+    margin-top: 2.5rem;
+    margin-bottom: 2.5rem;
     border: 3px dashed black;
 }
 
-/* Big Left */
+/* Big Left & Big Right*/
 
+.first-color {
+    background-color: white;
+}
+
+.second-color {
+    background-color: #d3d3d3;
+}
+
+.big {
+    height: 400px;
+    width: 40%;
+    background-color: #1e90ff;
+    margin-top: 2.5rem;
+    margin-bottom: 2.5rem;
+    border: 3px dashed black;
+}
+
+.small {
+    height: 400px;
+    width: 30%;
+    background-color: #ffc0cb;
+    margin-top: 2.5rem;
+    margin-bottom: 2.5rem;
+    border: 3px dashed black;
+}
+
+/* The Big One */
