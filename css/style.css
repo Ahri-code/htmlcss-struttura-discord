@@ -1,0 +1,45 @@
+/* Standard Reset */
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header */
+
+header {
+    background-color: #add8e6;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+}
+
+.top-bar {
+    background-color: #daa520;
+    border: 3px dashed black;
+    padding: 0.4rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.nav-sider {
+    width: calc(100% / 6);
+}
+
+nav {
+    width: calc(100% / 6 * 2);
+    text-align: center;
+}
+
+#logo-head {
+    text-align: left;
+}
+
+#login {
+    text-align: right;
+}
+
+
