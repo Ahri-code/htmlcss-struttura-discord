@@ -43,3 +43,16 @@ nav {
 }
 
 /* Main */
+
+#top-div {
+    background-color: #00008b;
+}
+
+#top-centered {
+    height: 300px;
+    width: 50%;
+    background-color: #ee82ee;
+    margin-top: calc(100% / 35);
+    margin-bottom: calc(100% / 35);
+}
+
