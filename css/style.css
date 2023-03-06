@@ -43,6 +43,7 @@ nav {
 }
 
 /* Main */
+/* Top Div */
 
 #top-div {
     background-color: #00008b;
@@ -54,5 +55,8 @@ nav {
     background-color: #ee82ee;
     margin-top: calc(100% / 35);
     margin-bottom: calc(100% / 35);
+    border: 3px dashed black;
 }
+
+/* Big Left */
 
