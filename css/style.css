@@ -96,3 +96,33 @@ nav {
     margin-bottom: 2.5rem;
     border: 3px dashed black;
 }
+
+/* Footer */
+/* Top Footer */
+
+.bottom-color {
+    background-color: #23272a;
+}
+
+#bottom-left {
+    height: 500px;
+    width: 20%;
+    background-color: #f08080;
+    margin-top: 0.5rem;
+    margin-bottom: 2.5rem;
+    border: 3px dashed black;
+}
+
+#bottom-right {
+    height: 500px;
+    width: 50%;
+}
+
+.small-bottom {
+    height: 500px;
+    width: calc(100% / 4);
+    background-color: #20b2aa;
+    margin-top: 0.5rem;
+    margin-bottom: 2.5rem;
+    border: 3px dashed white;
+}
