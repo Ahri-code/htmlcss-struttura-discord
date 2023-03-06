@@ -126,3 +126,33 @@ nav {
     margin-bottom: 2.5rem;
     border: 3px dashed white;
 }
+
+#flex-bottom {
+    display: flex;
+    justify-content: space-between;
+    background-color: #7fffd4;
+    width: 70%;
+    margin-top: 1rem;
+}
+
+.small-bottom {
+    height: 500px;
+    width: calc(100% / 4);
+    background-color: #20b2aa;
+    margin-top: 0.5rem;
+    margin-bottom: 2.5rem;
+    border: 3px dashed white;
+}
+
+.bottom-text {
+    padding: 0.4rem;
+    background-color: #ffb6c1;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 3px dashed black;
+}
+
+#space {
+    height: 0.1rem;
+    background-color: #c1c1c1;
+}
